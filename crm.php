@@ -1,3 +1,5 @@
+//może wymagać pliku klienci.txt aby działało 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
