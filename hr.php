@@ -22,7 +22,7 @@
             <a class="nav-link" href="crm.php">CRM</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="sprzedaz.html">Sprzedaż</a>
+            <a class="nav-link" href="sprzedaz.php">Sprzedaż</a>
             </li>
             <li class="nav-item">
             <a class="nav-link" href="hr.php">HR</a>
